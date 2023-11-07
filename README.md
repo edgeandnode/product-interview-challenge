@@ -13,9 +13,9 @@ Use any GraphQL client and styling solution you're comfortable with. The focus o
 
 In this exercise, you will create an Epochs table that has sorting, search and/or pagination. Data will be available at the endpoint provided in the .env file.
 
-First off, watch the [video](https://storage.googleapis.com/graph-web/blog/The%20Graph%20-%20Table.mov) to see what the end result should look like.
+First off, watch the [video](https://storage.googleapis.com/graph-web/blog/The%20Graph%20-%20Table.mov) to see what the end result should look like. *(Note: The table in the video shows Indexers but for this assignment we will focus on Epochs, not Indexers)*
 
-Designs can be found [here](https://invis.io/6WZZK4QUGFZ). Use the "Inspect" mode in Invision to get the styles. Here is the [Sketch file](https://storage.googleapis.com/graph-web/blog/The%20Graph%20-%20Table.sketch). All the assets can be found [here](https://storage.googleapis.com/graph-web/blog/Table%20Assets.zip).
+Designs can be found [here](https://invis.io/6WZZK4QUGFZ). Here is the [Sketch file](https://storage.googleapis.com/graph-web/blog/The%20Graph%20-%20Table.sketch). All the assets can be found [here](https://storage.googleapis.com/graph-web/blog/Table%20Assets.zip).
 
 1. You can find the subgraph here and use the playground to see the schema and make queries: https://thegraph.com/explorer/subgraph/graphprotocol/graph-network-mainnet.
 2. For this challenge, we will query the Entity called `Epoch`.
